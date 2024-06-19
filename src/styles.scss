@@ -8,14 +8,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.text-ternary {
-  color: #1583d4 !important;
+.text-orange {
+  color: #ff6b2b !important;
 }
-
+.text-lightBlue {
+  color: #1b86e0 !important;
+}
+.bg-orange {
+  background: #ff6b2b !important;
+}
 .bg-second {
   background-color: #cfd7df !important;
 }
-
+.bg-blue {
+  background-color: #192b38 !important;
+}
+.bg-liteBlue {
+  background-color: #223341 !important;
+}
 // Cursor pointer
 .cursor-pointer {
   cursor: pointer;
