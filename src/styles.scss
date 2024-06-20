@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.text-orange {
+  color: #ff6b2b !important;
+}
+.text-lightBlue {
+  color: #1b86e0 !important;
+}
+.bg-orange {
+  background: #ff6b2b !important;
+}
+.bg-second {
+  background-color: #cfd7df !important;
+}
+.bg-blue {
+  background-color: #192b38 !important;
+}
+.bg-liteBlue {
+  background-color: #223341 !important;
+}
+// Cursor pointer
+.cursor-pointer {
+  cursor: pointer;
+}
